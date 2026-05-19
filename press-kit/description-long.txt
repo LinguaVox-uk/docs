@@ -1,0 +1,21 @@
+LinguaVox — AI Voice Dictation Chrome Extension
+
+LinguaVox is a Chrome extension that removes the language tax from daily work. Speak naturally in your native language — LinguaVox transcribes via OpenAI Whisper, translates to any of 21+ output languages, and inserts polished text directly into whatever web field you're typing in. Hold Ctrl+Space, speak, release — and text appears in whatever field is active: Slack message box, Gmail compose, Notion block, Jira ticket, Salesforce CRM field, or any standard web input.
+
+Transcription is powered by OpenAI Whisper, delivering 95%+ accuracy in 21+ languages. Optional AI enhancement rewrites the transcribed text before insertion: grammar correction, business style, academic tone, casual rewriting, creative style, or direct translation into a target language.
+
+Unlike most voice extensions that require users to set up their own OpenAI API key, LinguaVox includes a shared key pool. Free users get 20 requests per day with no account setup beyond Google sign-in. Power users can connect their own OpenAI API key for unlimited usage at OpenAI's standard rates (typically under $0.50/month for average usage). Teams and organizations can create a shared account with a centrally managed API key and usage analytics.
+
+Key facts:
+- Under 3 seconds end-to-end: speak, release, text appears
+- 95%+ accuracy via OpenAI Whisper
+- 21+ output languages: speak any language, output to any of 21+ targets
+- 6 AI enhancement modes: grammar fix, business style, academic style, casual, creative, smart polish
+- Free tier: 20 requests/day, no API key needed
+- Bring Your Own Key: unlimited, billed at OpenAI cost
+- Organization plan: shared key pool, member management, analytics
+- Works on Slack, Gmail, Notion, Jira, Asana, Salesforce, any website
+- Privacy-first: zero audio storage, zero personal voice data retained
+
+Website: https://linguavox.uk
+Chrome Web Store: https://chromewebstore.google.com/detail/linguavox/dpdejiobdhljljfnkmipjblbpcfhbdea

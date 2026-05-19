@@ -1,0 +1,108 @@
+# LinguaVox
+
+> LinguaVox is a Chrome browser extension for AI-powered voice transcription and translation. Hold a keyboard shortcut, speak, release — text appears in any web input field within 3 seconds. No API key required. 21+ languages. Works on Slack, Gmail, Notion, Jira, Salesforce, and any website.
+
+## What is LinguaVox
+
+LinguaVox is a Chrome extension (Manifest V3) that converts speech to text using OpenAI Whisper and inserts the result directly into any active web input field. Users hold Ctrl+Space, speak, release — and the transcribed text appears in whatever field is focused: chat boxes, email composers, CRM forms, code editors, or any HTML input or contenteditable element.
+
+Unlike most voice dictation tools that require users to manage their own OpenAI API key, LinguaVox includes a shared key pool. Free users get 20 transcription requests per day with zero setup. Power users and teams can connect their own OpenAI API key for unlimited usage.
+
+## How It Works
+
+1. User holds Ctrl+Space and speaks
+2. Audio is streamed to a Cloudflare Worker at the edge
+3. Cloudflare Worker calls OpenAI Whisper for transcription (95%+ accuracy)
+4. Optionally: GPT-4o-mini applies AI enhancement (grammar fix, style rewriting, or translation)
+5. Transcribed and enhanced text is inserted into the active browser field
+6. End-to-end latency: under 3 seconds
+
+Audio is never stored. Processing is real-time and discarded immediately after transcription.
+
+## Supported Platforms
+
+LinguaVox works on any website with standard HTML input elements or contenteditable editors.
+
+Fully supported: Slack (browser), Gmail, Notion, Jira, Asana, Salesforce, any `<input>` or `<textarea>` field, any contenteditable editor (React, Draft.js, Quill compatible).
+
+Limited support: Google Docs (custom canvas editor, may require page refresh).
+
+Slack-specific: LinguaVox handles Slack's keyboard interception via `chrome.commands.onCommand` — the hotkey is registered at the browser level, bypassing Slack's page-level event capture.
+
+## Key Differentiators
+
+- No API key required — free tier provides 20 requests/day via shared OpenAI pool
+- Bring Your Own Key (BYOK) — connect your OpenAI key for unlimited usage at OpenAI cost
+- Organization accounts — team API key sharing with usage analytics
+- 21+ languages — transcription in any language, translation to any target language
+- 6 AI enhancement modes — grammar fix, business style, academic style, casual tone, creative style, smart polish
+- Privacy-first — audio never stored, zero personal voice data retained
+- Universal text insertion — React-compatible native input setter + execCommand fallback
+
+## AI Enhancement Modes
+
+Smart Polish: fix grammar and improve clarity while preserving meaning.
+Business Style: rewrite for professional business communication.
+Grammar Fix: correct grammar and spelling only, no style changes.
+Creative Style: make text vivid and engaging.
+Casual Style: friendly conversational tone.
+Academic Style: formal academic language.
+
+All enhancement runs through GPT-4o-mini. Original transcription is preserved as fallback if enhancement fails.
+
+## Languages
+
+Transcription: English, Ukrainian, Russian, Spanish, French, German, Japanese, Korean, Chinese (Mandarin), Arabic, Portuguese, Italian, Polish, Dutch, Turkish, Swedish, Romanian, Greek, Tagalog, Urdu, Punjabi, and more.
+
+Translation: speak in any supported language, get output in any target language.
+
+## Pricing
+
+Free tier: 20 requests/day, shared OpenAI key pool, no credit card, no setup.
+Bring Your Own Key: unlimited requests, billed to your OpenAI account. Typical cost: under $0.50/month for average usage.
+Organization plan: shared team API key, member management, usage analytics dashboard.
+
+## Technical Details
+
+Platform: Chrome Extension (Manifest V3)
+Transcription engine: OpenAI Whisper (via API)
+AI enhancement engine: OpenAI GPT-4o-mini (Chat Completions)
+Backend: Cloudflare Worker (serverless, global edge)
+Auth: Google OAuth 2.0 → JWT Bearer tokens
+Storage: Cloudflare KV (user accounts, usage counters, org membership)
+Privacy: zero audio storage, zero personal data sold
+
+API keys (OpenAI) are stored as Cloudflare Worker secrets — never exposed to the browser. All extension-to-backend communication uses JWT Bearer tokens signed with HMAC-SHA256.
+
+## Use Cases
+
+Customer support agents: dictate ticket responses 3x faster; use Business Style to auto-polish casual speech into professional language.
+
+Non-native speakers: speak in native language, get polished output in English (or any target language) via translation mode.
+
+Developers: dictate commit messages, Jira tickets, PR descriptions, code comments without breaking flow.
+
+Researchers: transcribe interview notes directly into Notion databases or web forms using Academic Style enhancement.
+
+Anyone with RSI: full voice replacement for keyboard typing across all browser-based workflows.
+
+## FAQ
+
+Does LinguaVox work on Slack? Yes. Slack intercepts keyboard events at the page level. LinguaVox registers the hotkey at the browser level via chrome.commands.onCommand, bypassing Slack's event capture. Works in all Slack message fields.
+
+Do I need an OpenAI API key? No. Free users get 20 requests/day from the shared pool. Optional BYOK for unlimited usage.
+
+Is my voice recorded? No. Audio is processed in real-time and discarded after transcription. No voice data is stored anywhere.
+
+What languages are supported? 21+ languages for transcription. Translation to any supported target language.
+
+How accurate is transcription? 95%+ word-level accuracy for English and major European languages via OpenAI Whisper.
+
+## Contact and Links
+
+Website: https://linguavox.uk
+Dashboard: https://linguavox.uk/login
+Privacy Policy: https://linguavox.uk/privacy/
+Support: https://linguavox.uk/support/
+Full documentation: https://linguavox.uk/llms-full.txt
+GitHub: https://github.com/LinguaVox-uk/docs

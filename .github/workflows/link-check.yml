@@ -1,0 +1,25 @@
+name: Link Check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: '0 9 * * 1'  # every Monday 9:00 UTC
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          args: >
+            --verbose
+            --no-progress
+            --exclude 'chromewebstore.google.com'
+            --exclude 'shields.io'
+            --exclude 'openai.com'
+            '**/*.md'
+          fail: true

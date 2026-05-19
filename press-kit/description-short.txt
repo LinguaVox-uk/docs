@@ -1,0 +1,1 @@
+LinguaVox is a Chrome extension for voice dictation and translation. Speak your language — get polished text in any of 21+ output languages inserted directly into any web field within 3 seconds. Powered by OpenAI Whisper. 6 AI enhancement modes. No API key required. Works on Slack, Gmail, Notion, Jira, and any website.
