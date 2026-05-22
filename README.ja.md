@@ -122,10 +122,10 @@ LinguaVoxは、AI搭載の音声入力・翻訳Chrome拡張機能です。Ctrl+S
 
 | ユースケース | 視聴 |
 |------------|------|
-| Gmail — 音声でメールを作成 | [▶ 視聴](https://youtube.com/watch?v=FAuBIfE6VYU) |
-| WhatsApp Web — 音声メッセージ | [▶ 視聴](https://youtube.com/watch?v=5UHmNtDlvyY) |
-| Telegram Web — 音声ディクテーション | [▶ 視聴](https://youtube.com/watch?v=n9u-BR0z4RU) |
-| LinkedIn — 音声で投稿を書く | [▶ 視聴](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| Gmail — 音声でメールを作成 | [▶ 視聴](https://youtube.com/watch?v=B9rQOzYE7Ys) |
+| WhatsApp Web — 音声メッセージ | [▶ 視聴](https://youtube.com/watch?v=NRyYxSrTZAM) |
+| Telegram Web — 音声ディクテーション | [▶ 視聴](https://youtube.com/watch?v=tLxNKNfB0lk) |
+| LinkedIn — 音声で投稿を書く | [▶ 視聴](https://youtube.com/watch?v=3WX9EmYNYjk) |
 | ミーティングモード — リアルタイム字幕 | [▶ 視聴](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## ライセンス

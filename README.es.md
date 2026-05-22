@@ -125,10 +125,10 @@ No. El audio es procesado por Whisper en tiempo real y descartado inmediatamente
 
 | Caso de Uso | Ver |
 |-------------|-----|
-| Gmail — redactar correos por voz | [▶ Ver](https://youtube.com/watch?v=FAuBIfE6VYU) |
-| WhatsApp Web — mensajes de voz | [▶ Ver](https://youtube.com/watch?v=5UHmNtDlvyY) |
-| Telegram Web — dictado por voz | [▶ Ver](https://youtube.com/watch?v=n9u-BR0z4RU) |
-| LinkedIn — escribir posts por voz | [▶ Ver](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| Gmail — redactar correos por voz | [▶ Ver](https://youtube.com/watch?v=B9rQOzYE7Ys) |
+| WhatsApp Web — mensajes de voz | [▶ Ver](https://youtube.com/watch?v=NRyYxSrTZAM) |
+| Telegram Web — dictado por voz | [▶ Ver](https://youtube.com/watch?v=tLxNKNfB0lk) |
+| LinkedIn — escribir posts por voz | [▶ Ver](https://youtube.com/watch?v=3WX9EmYNYjk) |
 | Modo Reunión — subtítulos en tiempo real | [▶ Ver](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## Licencia

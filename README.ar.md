@@ -115,10 +115,10 @@ LinguaVox إضافة Chrome للإملاء الصوتي والترجمة بال�
 
 | حالة الاستخدام | مشاهدة |
 |----------------|--------|
-| Gmail — كتابة رسائل بالصوت | [▶ مشاهدة](https://youtube.com/watch?v=FAuBIfE6VYU) |
-| WhatsApp Web — رسائل صوتية | [▶ مشاهدة](https://youtube.com/watch?v=5UHmNtDlvyY) |
-| Telegram Web — إملاء صوتي | [▶ مشاهدة](https://youtube.com/watch?v=n9u-BR0z4RU) |
-| LinkedIn — كتابة منشورات بالصوت | [▶ مشاهدة](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| Gmail — كتابة رسائل بالصوت | [▶ مشاهدة](https://youtube.com/watch?v=B9rQOzYE7Ys) |
+| WhatsApp Web — رسائل صوتية | [▶ مشاهدة](https://youtube.com/watch?v=NRyYxSrTZAM) |
+| Telegram Web — إملاء صوتي | [▶ مشاهدة](https://youtube.com/watch?v=tLxNKNfB0lk) |
+| LinkedIn — كتابة منشورات بالصوت | [▶ مشاهدة](https://youtube.com/watch?v=3WX9EmYNYjk) |
 | وضع الاجتماعات — نصوص فورية | [▶ مشاهدة](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## التثبيت

@@ -115,10 +115,10 @@ LinguaVox ایک Chrome ایکسٹینشن ہے جو AI کی مدد سے آوا�
 
 | استعمال کا کیس | دیکھیں |
 |----------------|-------|
-| Gmail — آواز سے ای میل لکھیں | [▶ دیکھیں](https://youtube.com/watch?v=FAuBIfE6VYU) |
-| WhatsApp Web — آواز کے پیغامات | [▶ دیکھیں](https://youtube.com/watch?v=5UHmNtDlvyY) |
-| Telegram Web — آواز ڈکٹیشن | [▶ دیکھیں](https://youtube.com/watch?v=n9u-BR0z4RU) |
-| LinkedIn — آواز سے پوسٹ لکھیں | [▶ دیکھیں](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| Gmail — آواز سے ای میل لکھیں | [▶ دیکھیں](https://youtube.com/watch?v=B9rQOzYE7Ys) |
+| WhatsApp Web — آواز کے پیغامات | [▶ دیکھیں](https://youtube.com/watch?v=NRyYxSrTZAM) |
+| Telegram Web — آواز ڈکٹیشن | [▶ دیکھیں](https://youtube.com/watch?v=tLxNKNfB0lk) |
+| LinkedIn — آواز سے پوسٹ لکھیں | [▶ دیکھیں](https://youtube.com/watch?v=3WX9EmYNYjk) |
 | میٹنگ موڈ — ریئل ٹائم سب ٹائٹلز | [▶ دیکھیں](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## انسٹالیشن

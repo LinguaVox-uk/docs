@@ -115,10 +115,10 @@ Nie. Audio jest przetwarzane w czasie rzeczywistym i natychmiast odrzucane. Zero
 
 | Przypadek użycia | Oglądaj |
 |-----------------|---------|
-| Gmail — pisz e-maile głosem | [▶ Oglądaj](https://youtube.com/watch?v=FAuBIfE6VYU) |
-| WhatsApp Web — wiadomości głosowe | [▶ Oglądaj](https://youtube.com/watch?v=5UHmNtDlvyY) |
-| Telegram Web — dyktowanie głosowe | [▶ Oglądaj](https://youtube.com/watch?v=n9u-BR0z4RU) |
-| LinkedIn — pisz posty głosem | [▶ Oglądaj](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| Gmail — pisz e-maile głosem | [▶ Oglądaj](https://youtube.com/watch?v=B9rQOzYE7Ys) |
+| WhatsApp Web — wiadomości głosowe | [▶ Oglądaj](https://youtube.com/watch?v=NRyYxSrTZAM) |
+| Telegram Web — dyktowanie głosowe | [▶ Oglądaj](https://youtube.com/watch?v=tLxNKNfB0lk) |
+| LinkedIn — pisz posty głosem | [▶ Oglądaj](https://youtube.com/watch?v=3WX9EmYNYjk) |
 | Tryb Spotkania — napisy w czasie rzeczywistym | [▶ Oglądaj](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## Instalacja

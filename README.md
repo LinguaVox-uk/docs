@@ -170,10 +170,10 @@ No. Audio is processed in real-time by Whisper and discarded immediately. Zero v
 
 | Use Case | Watch |
 |----------|-------|
-| Gmail — compose emails by voice | [▶ Watch](https://youtube.com/watch?v=FAuBIfE6VYU) |
-| WhatsApp Web — send voice messages | [▶ Watch](https://youtube.com/watch?v=5UHmNtDlvyY) |
-| Telegram Web — voice dictation | [▶ Watch](https://youtube.com/watch?v=n9u-BR0z4RU) |
-| LinkedIn — write posts by voice | [▶ Watch](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| Full demo — dictate on any website | [▶ Watch](https://youtube.com/watch?v=B9rQOzYE7Ys) |
+| WhatsApp Web — send voice messages | [▶ Watch](https://youtube.com/watch?v=NRyYxSrTZAM) |
+| Telegram Web — voice dictation | [▶ Watch](https://youtube.com/watch?v=tLxNKNfB0lk) |
+| LinkedIn — write posts by voice | [▶ Watch](https://youtube.com/watch?v=3WX9EmYNYjk) |
 | Meeting Mode — real-time subtitles | [▶ Watch](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## License

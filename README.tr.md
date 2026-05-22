@@ -115,10 +115,10 @@ Hayır. Ses, Whisper tarafından gerçek zamanlı olarak işlenir ve hemen silin
 
 | Kullanım Alanı | İzle |
 |----------------|------|
-| Gmail — sesle e-posta yaz | [▶ İzle](https://youtube.com/watch?v=FAuBIfE6VYU) |
-| WhatsApp Web — sesli mesajlar | [▶ İzle](https://youtube.com/watch?v=5UHmNtDlvyY) |
-| Telegram Web — sesli dikte | [▶ İzle](https://youtube.com/watch?v=n9u-BR0z4RU) |
-| LinkedIn — sesle gönderi yaz | [▶ İzle](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| Gmail — sesle e-posta yaz | [▶ İzle](https://youtube.com/watch?v=B9rQOzYE7Ys) |
+| WhatsApp Web — sesli mesajlar | [▶ İzle](https://youtube.com/watch?v=NRyYxSrTZAM) |
+| Telegram Web — sesli dikte | [▶ İzle](https://youtube.com/watch?v=tLxNKNfB0lk) |
+| LinkedIn — sesle gönderi yaz | [▶ İzle](https://youtube.com/watch?v=3WX9EmYNYjk) |
 | Toplantı Modu — anlık altyazılar | [▶ İzle](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## Kurulum

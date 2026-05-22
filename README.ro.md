@@ -115,10 +115,10 @@ Nu. Sunetul este procesat în timp real de Whisper și eliminat imediat. Zero da
 
 | Caz de utilizare | Vizionare |
 |-----------------|----------|
-| Gmail — redactează e-mailuri prin voce | [▶ Vizionare](https://youtube.com/watch?v=FAuBIfE6VYU) |
-| WhatsApp Web — mesaje vocale | [▶ Vizionare](https://youtube.com/watch?v=5UHmNtDlvyY) |
-| Telegram Web — dictare vocală | [▶ Vizionare](https://youtube.com/watch?v=n9u-BR0z4RU) |
-| LinkedIn — scrie postări prin voce | [▶ Vizionare](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| Gmail — redactează e-mailuri prin voce | [▶ Vizionare](https://youtube.com/watch?v=B9rQOzYE7Ys) |
+| WhatsApp Web — mesaje vocale | [▶ Vizionare](https://youtube.com/watch?v=NRyYxSrTZAM) |
+| Telegram Web — dictare vocală | [▶ Vizionare](https://youtube.com/watch?v=tLxNKNfB0lk) |
+| LinkedIn — scrie postări prin voce | [▶ Vizionare](https://youtube.com/watch?v=3WX9EmYNYjk) |
 | Modul Ședință — subtitrări în timp real | [▶ Vizionare](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## Instalare

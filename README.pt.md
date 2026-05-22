@@ -115,10 +115,10 @@ Não. O áudio é processado em tempo real pelo Whisper e descartado imediatamen
 
 | Caso de uso | Assistir |
 |-------------|---------|
-| Gmail — ditando e-mails por voz | [▶ Assistir](https://youtube.com/watch?v=FAuBIfE6VYU) |
-| WhatsApp Web — mensagens de voz | [▶ Assistir](https://youtube.com/watch?v=5UHmNtDlvyY) |
-| Telegram Web — ditado por voz | [▶ Assistir](https://youtube.com/watch?v=n9u-BR0z4RU) |
-| LinkedIn — escrevendo posts por voz | [▶ Assistir](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| Gmail — ditando e-mails por voz | [▶ Assistir](https://youtube.com/watch?v=B9rQOzYE7Ys) |
+| WhatsApp Web — mensagens de voz | [▶ Assistir](https://youtube.com/watch?v=NRyYxSrTZAM) |
+| Telegram Web — ditado por voz | [▶ Assistir](https://youtube.com/watch?v=tLxNKNfB0lk) |
+| LinkedIn — escrevendo posts por voz | [▶ Assistir](https://youtube.com/watch?v=3WX9EmYNYjk) |
 | Modo Reunião — legendas em tempo real | [▶ Assistir](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## Instalação

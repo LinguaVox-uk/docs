@@ -115,10 +115,10 @@ LinguaVox ਇੱਕ Chrome ਐਕਸਟੈਨਸ਼ਨ ਹੈ ਜੋ AI ਆਵ�
 
 | ਵਰਤੋਂ ਦਾ ਕੇਸ | ਦੇਖੋ |
 |-------------|------|
-| Gmail — ਆਵਾਜ਼ ਨਾਲ ਈਮੇਲ ਲਿਖੋ | [▶ ਦੇਖੋ](https://youtube.com/watch?v=FAuBIfE6VYU) |
-| WhatsApp Web — ਆਵਾਜ਼ ਸੁਨੇਹੇ | [▶ ਦੇਖੋ](https://youtube.com/watch?v=5UHmNtDlvyY) |
-| Telegram Web — ਆਵਾਜ਼ ਡਿਕਟੇਸ਼ਨ | [▶ ਦੇਖੋ](https://youtube.com/watch?v=n9u-BR0z4RU) |
-| LinkedIn — ਆਵਾਜ਼ ਨਾਲ ਪੋਸਟ ਲਿਖੋ | [▶ ਦੇਖੋ](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| Gmail — ਆਵਾਜ਼ ਨਾਲ ਈਮੇਲ ਲਿਖੋ | [▶ ਦੇਖੋ](https://youtube.com/watch?v=B9rQOzYE7Ys) |
+| WhatsApp Web — ਆਵਾਜ਼ ਸੁਨੇਹੇ | [▶ ਦੇਖੋ](https://youtube.com/watch?v=NRyYxSrTZAM) |
+| Telegram Web — ਆਵਾਜ਼ ਡਿਕਟੇਸ਼ਨ | [▶ ਦੇਖੋ](https://youtube.com/watch?v=tLxNKNfB0lk) |
+| LinkedIn — ਆਵਾਜ਼ ਨਾਲ ਪੋਸਟ ਲਿਖੋ | [▶ ਦੇਖੋ](https://youtube.com/watch?v=3WX9EmYNYjk) |
 | ਮੀਟਿੰਗ ਮੋਡ — ਰੀਅਲ-ਟਾਈਮ ਸਬਟਾਈਟਲ | [▶ ਦੇਖੋ](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## ਇੰਸਟਾਲੇਸ਼ਨ

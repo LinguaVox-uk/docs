@@ -125,10 +125,10 @@ LinguaVox 是一款基于 AI 的 Chrome 语音听写和翻译扩展。按住 Ctr
 
 | 使用场景 | 观看 |
 |---------|------|
-| Gmail — 用语音撰写邮件 | [▶ 观看](https://youtube.com/watch?v=FAuBIfE6VYU) |
-| WhatsApp Web — 语音消息 | [▶ 观看](https://youtube.com/watch?v=5UHmNtDlvyY) |
-| Telegram Web — 语音听写 | [▶ 观看](https://youtube.com/watch?v=n9u-BR0z4RU) |
-| LinkedIn — 用语音写帖子 | [▶ 观看](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| Gmail — 用语音撰写邮件 | [▶ 观看](https://youtube.com/watch?v=B9rQOzYE7Ys) |
+| WhatsApp Web — 语音消息 | [▶ 观看](https://youtube.com/watch?v=NRyYxSrTZAM) |
+| Telegram Web — 语音听写 | [▶ 观看](https://youtube.com/watch?v=tLxNKNfB0lk) |
+| LinkedIn — 用语音写帖子 | [▶ 观看](https://youtube.com/watch?v=3WX9EmYNYjk) |
 | 会议模式 — 实时字幕 | [▶ 观看](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## 许可证

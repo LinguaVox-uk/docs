@@ -140,10 +140,10 @@ LinguaVox — расширение Chrome для голосового дикта
 
 | Сценарий | Смотреть |
 |----------|---------|
-| Gmail — писать письма голосом | [▶ Смотреть](https://youtube.com/watch?v=FAuBIfE6VYU) |
-| WhatsApp Web — голосовые сообщения | [▶ Смотреть](https://youtube.com/watch?v=5UHmNtDlvyY) |
-| Telegram Web — голосовой диктант | [▶ Смотреть](https://youtube.com/watch?v=n9u-BR0z4RU) |
-| LinkedIn — писать посты голосом | [▶ Смотреть](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| Gmail — писать письма голосом | [▶ Смотреть](https://youtube.com/watch?v=B9rQOzYE7Ys) |
+| WhatsApp Web — голосовые сообщения | [▶ Смотреть](https://youtube.com/watch?v=NRyYxSrTZAM) |
+| Telegram Web — голосовой диктант | [▶ Смотреть](https://youtube.com/watch?v=tLxNKNfB0lk) |
+| LinkedIn — писать посты голосом | [▶ Смотреть](https://youtube.com/watch?v=3WX9EmYNYjk) |
 | Meeting Mode — субтитры в реальном времени | [▶ Смотреть](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## Лицензия

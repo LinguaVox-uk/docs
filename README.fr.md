@@ -115,10 +115,10 @@ Non. L'audio est traité en temps réel par Whisper et supprimé immédiatement.
 
 | Cas d'utilisation | Regarder |
 |-------------------|---------|
-| Gmail — rédiger des e-mails par la voix | [▶ Regarder](https://youtube.com/watch?v=FAuBIfE6VYU) |
-| WhatsApp Web — messages vocaux | [▶ Regarder](https://youtube.com/watch?v=5UHmNtDlvyY) |
-| Telegram Web — dictée vocale | [▶ Regarder](https://youtube.com/watch?v=n9u-BR0z4RU) |
-| LinkedIn — rédiger des publications par la voix | [▶ Regarder](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| Gmail — rédiger des e-mails par la voix | [▶ Regarder](https://youtube.com/watch?v=B9rQOzYE7Ys) |
+| WhatsApp Web — messages vocaux | [▶ Regarder](https://youtube.com/watch?v=NRyYxSrTZAM) |
+| Telegram Web — dictée vocale | [▶ Regarder](https://youtube.com/watch?v=tLxNKNfB0lk) |
+| LinkedIn — rédiger des publications par la voix | [▶ Regarder](https://youtube.com/watch?v=3WX9EmYNYjk) |
 | Mode Réunion — sous-titres en temps réel | [▶ Regarder](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## Installation
