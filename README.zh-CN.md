@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="README.md">English</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.es.md">Español</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ja.md">日本語</a>
+  <a href="README.md">English</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.es.md">Español</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ja.md">日本語</a> · <a href="README.fr.md">Français</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a> · <a href="README.pt.md">Português</a> · <a href="README.it.md">Italiano</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.sv.md">Svenska</a> · <a href="README.ro.md">Română</a> · <a href="README.el.md">Ελληνικά</a> · <a href="README.tl.md">Filipino</a> · <a href="README.ur.md">اردو</a> · <a href="README.pa.md">ਪੰਜਾਬੀ</a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   <a href="https://linguavox.uk"><img src="https://img.shields.io/badge/网站-linguavox-brightgreen" alt="网站" /></a>
   <a href="https://chromewebstore.google.com/detail/linguavox/dpdejiobdhljljfnkmipjblbpcfhbdea"><img src="https://img.shields.io/badge/Chrome%20应用商店-免费安装-blue?logo=googlechrome" alt="Chrome应用商店" /></a>
   <a href="https://linguavox.uk/login"><img src="https://img.shields.io/badge/控制台-打开-orange" alt="控制台" /></a>
-  <a href="https://github.com/LinguaVox-uk/docs/releases/latest"><img src="https://img.shields.io/badge/版本-3.0.0-green" alt="版本" /></a>
+  <img src="https://img.shields.io/badge/版本-2.8-green" alt="版本" />
 </p>
 
 ---
@@ -112,6 +112,24 @@ LinguaVox 是一款基于 AI 的 Chrome 语音听写和翻译扩展。按住 Ctr
 | 👤 关于作者 | https://linguavox.uk/about |
 | 🔒 隐私政策 | https://linguavox.uk/privacy/ |
 | 💬 支持 | https://linguavox.uk/support/ |
+
+## 社区与支持
+
+| | |
+|--|--|
+| 📺 YouTube | [演示视频和教程](https://www.youtube.com/channel/UCHRcSLs96N5M_mC4I4XXTMg) |
+| 💬 WhatsApp | [LinguaVox 社区频道](https://whatsapp.com/channel/0029VbCx0blElaglJ5zvFl3d) |
+| 🤝 Slack | [加入 linguavox.slack.com](https://linguavox.slack.com) |
+
+## 演示视频
+
+| 使用场景 | 观看 |
+|---------|------|
+| Gmail — 用语音撰写邮件 | [▶ 观看](https://youtube.com/watch?v=FAuBIfE6VYU) |
+| WhatsApp Web — 语音消息 | [▶ 观看](https://youtube.com/watch?v=5UHmNtDlvyY) |
+| Telegram Web — 语音听写 | [▶ 观看](https://youtube.com/watch?v=n9u-BR0z4RU) |
+| LinkedIn — 用语音写帖子 | [▶ 观看](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| 会议模式 — 实时字幕 | [▶ 观看](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## 许可证
 

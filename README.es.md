@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="README.md">English</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.es.md">Español</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ja.md">日本語</a>
+  <a href="README.md">English</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.es.md">Español</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ja.md">日本語</a> · <a href="README.fr.md">Français</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a> · <a href="README.pt.md">Português</a> · <a href="README.it.md">Italiano</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.sv.md">Svenska</a> · <a href="README.ro.md">Română</a> · <a href="README.el.md">Ελληνικά</a> · <a href="README.tl.md">Filipino</a> · <a href="README.ur.md">اردو</a> · <a href="README.pa.md">ਪੰਜਾਬੀ</a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   <a href="https://linguavox.uk"><img src="https://img.shields.io/badge/web-linguavox-brightgreen" alt="Sitio web" /></a>
   <a href="https://chromewebstore.google.com/detail/linguavox/dpdejiobdhljljfnkmipjblbpcfhbdea"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Instalar%20gratis-blue?logo=googlechrome" alt="Chrome Web Store" /></a>
   <a href="https://linguavox.uk/login"><img src="https://img.shields.io/badge/panel-abrir-orange" alt="Panel" /></a>
-  <a href="https://github.com/LinguaVox-uk/docs/releases/latest"><img src="https://img.shields.io/badge/versión-3.0.0-green" alt="Versión" /></a>
+  <img src="https://img.shields.io/badge/versión-2.8-green" alt="Versión" />
 </p>
 
 ---
@@ -112,6 +112,24 @@ No. El audio es procesado por Whisper en tiempo real y descartado inmediatamente
 | 👤 Sobre el autor | https://linguavox.uk/about |
 | 🔒 Política de privacidad | https://linguavox.uk/privacy/ |
 | 💬 Soporte | https://linguavox.uk/support/ |
+
+## Comunidad y Soporte
+
+| | |
+|--|--|
+| 📺 YouTube | [Videos de demostración y tutoriales](https://www.youtube.com/channel/UCHRcSLs96N5M_mC4I4XXTMg) |
+| 💬 WhatsApp | [Canal de la Comunidad LinguaVox](https://whatsapp.com/channel/0029VbCx0blElaglJ5zvFl3d) |
+| 🤝 Slack | [Únete a linguavox.slack.com](https://linguavox.slack.com) |
+
+## Videos de Demostración
+
+| Caso de Uso | Ver |
+|-------------|-----|
+| Gmail — redactar correos por voz | [▶ Ver](https://youtube.com/watch?v=FAuBIfE6VYU) |
+| WhatsApp Web — mensajes de voz | [▶ Ver](https://youtube.com/watch?v=5UHmNtDlvyY) |
+| Telegram Web — dictado por voz | [▶ Ver](https://youtube.com/watch?v=n9u-BR0z4RU) |
+| LinkedIn — escribir posts por voz | [▶ Ver](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| Modo Reunión — subtítulos en tiempo real | [▶ Ver](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## Licencia
 

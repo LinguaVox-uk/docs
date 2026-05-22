@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="README.md">English</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.es.md">Español</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ja.md">日本語</a>
+  <a href="README.md">English</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.es.md">Español</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ja.md">日本語</a> · <a href="README.fr.md">Français</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a> · <a href="README.pt.md">Português</a> · <a href="README.it.md">Italiano</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.sv.md">Svenska</a> · <a href="README.ro.md">Română</a> · <a href="README.el.md">Ελληνικά</a> · <a href="README.tl.md">Filipino</a> · <a href="README.ur.md">اردو</a> · <a href="README.pa.md">ਪੰਜਾਬੀ</a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   <a href="https://linguavox.uk"><img src="https://img.shields.io/badge/сайт-linguavox-brightgreen" alt="Сайт" /></a>
   <a href="https://chromewebstore.google.com/detail/linguavox/dpdejiobdhljljfnkmipjblbpcfhbdea"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Установить-blue?logo=googlechrome" alt="Chrome Web Store" /></a>
   <a href="https://linguavox.uk/login"><img src="https://img.shields.io/badge/дашборд-открыть-orange" alt="Дашборд" /></a>
-  <a href="https://github.com/LinguaVox-uk/docs/releases/latest"><img src="https://img.shields.io/badge/версия-3.0.0-green" alt="Версия" /></a>
+  <img src="https://img.shields.io/badge/версия-2.8-green" alt="Версия" />
 </p>
 
 ---
@@ -107,7 +107,7 @@ LinguaVox — расширение Chrome для голосового дикта
 | [Сценарии использования](docs/use-cases.md) | Поддержка клиентов, разработчики, неносители языка |
 | [Интеграции](docs/integrations.md) | Детали для Slack, Notion, Jira и др. |
 | [FAQ](docs/faq.md) | 20+ ответов |
-| [История изменений](docs/changelog.md) | v1.0 → v3.0 |
+| [История изменений](docs/changelog.md) | v1.0 → v2.9 |
 
 ## Установка
 
@@ -127,6 +127,24 @@ LinguaVox — расширение Chrome для голосового дикта
 | 👤 Об авторе | https://linguavox.uk/about |
 | 🔒 Политика конфиденциальности | https://linguavox.uk/privacy/ |
 | 💬 Поддержка | https://linguavox.uk/support/ |
+
+## Сообщество и поддержка
+
+| | |
+|--|--|
+| 📺 YouTube | [Демо-видео и туториалы](https://www.youtube.com/channel/UCHRcSLs96N5M_mC4I4XXTMg) |
+| 💬 WhatsApp | [Сообщество LinguaVox](https://whatsapp.com/channel/0029VbCx0blElaglJ5zvFl3d) |
+| 🤝 Slack | [Присоединиться linguavox.slack.com](https://linguavox.slack.com) |
+
+## Демо-видео
+
+| Сценарий | Смотреть |
+|----------|---------|
+| Gmail — писать письма голосом | [▶ Смотреть](https://youtube.com/watch?v=FAuBIfE6VYU) |
+| WhatsApp Web — голосовые сообщения | [▶ Смотреть](https://youtube.com/watch?v=5UHmNtDlvyY) |
+| Telegram Web — голосовой диктант | [▶ Смотреть](https://youtube.com/watch?v=n9u-BR0z4RU) |
+| LinkedIn — писать посты голосом | [▶ Смотреть](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| Meeting Mode — субтитры в реальном времени | [▶ Смотреть](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## Лицензия
 

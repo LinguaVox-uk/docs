@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="README.md">English</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.es.md">Español</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ja.md">日本語</a>
+  <a href="README.md">English</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.es.md">Español</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ja.md">日本語</a> · <a href="README.fr.md">Français</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a> · <a href="README.pt.md">Português</a> · <a href="README.it.md">Italiano</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.sv.md">Svenska</a> · <a href="README.ro.md">Română</a> · <a href="README.el.md">Ελληνικά</a> · <a href="README.tl.md">Filipino</a> · <a href="README.ur.md">اردو</a> · <a href="README.pa.md">ਪੰਜਾਬੀ</a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   <a href="https://linguavox.uk"><img src="https://img.shields.io/badge/сайт-linguavox-brightgreen" alt="Сайт" /></a>
   <a href="https://chromewebstore.google.com/detail/linguavox/dpdejiobdhljljfnkmipjblbpcfhbdea"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Встановити-blue?logo=googlechrome" alt="Chrome Web Store" /></a>
   <a href="https://linguavox.uk/login"><img src="https://img.shields.io/badge/дашборд-відкрити-orange" alt="Дашборд" /></a>
-  <a href="https://github.com/LinguaVox-uk/docs/releases/latest"><img src="https://img.shields.io/badge/версія-3.0.0-green" alt="Версія" /></a>
+  <img src="https://img.shields.io/badge/версія-2.8-green" alt="Версія" />
 </p>
 
 ---
@@ -63,8 +63,7 @@ LinguaVox — це розширення Chrome для голосового ди�
 - **Організаційні акаунти** — спільний пул ключів, управління учасниками, аналітика використання
 - **21+ мова** — транскрипція та переклад за один крок
 - **6 режимів покращення ШІ** — виправлення граматики, діловий стиль, академічний, розмовний, творчий, розумне шліфування
-- **Режим нарад** — субтитри в реальному часі для Google Meet, Zoom, Teams та будь-якого браузерного дзвінка через Deepgram
-- **Конфіденційність** — аудіо ніколи не зберігається; аудіо нарад — ефемерні токени 90с, mip_opt_out=true
+- **Конфіденційність** — аудіо ніколи не зберігається, обробляється в реальному часі
 - **Менше 3 секунд** — від мовлення до вставленого тексту
 - **95%+ точність** — OpenAI Whisper large-v2
 
@@ -108,7 +107,7 @@ LinguaVox — це розширення Chrome для голосового ди�
 | [Сценарії використання](docs/use-cases.md) | Підтримка клієнтів, розробники, нерідні носії мови |
 | [Інтеграції](docs/integrations.md) | Деталі для Slack, Notion, Jira та ін. |
 | [FAQ](docs/faq.md) | 20+ відповідей |
-| [Журнал змін](docs/changelog.md) | v1.0 → v3.0 |
+| [Журнал змін](docs/changelog.md) | v1.0 → v2.9 |
 
 ## Встановлення
 
@@ -128,6 +127,24 @@ LinguaVox — це розширення Chrome для голосового ди�
 | 👤 Про автора | https://linguavox.uk/about |
 | 🔒 Політика конфіденційності | https://linguavox.uk/privacy/ |
 | 💬 Підтримка | https://linguavox.uk/support/ |
+
+## Спільнота та підтримка
+
+| | |
+|--|--|
+| 📺 YouTube | [Демо-відео та туторіали](https://www.youtube.com/channel/UCHRcSLs96N5M_mC4I4XXTMg) |
+| 💬 WhatsApp | [Спільнота LinguaVox](https://whatsapp.com/channel/0029VbCx0blElaglJ5zvFl3d) |
+| 🤝 Slack | [Приєднатись linguavox.slack.com](https://linguavox.slack.com) |
+
+## Демо-відео
+
+| Сценарій | Дивитись |
+|----------|---------|
+| Gmail — складати листи голосом | [▶ Дивитись](https://youtube.com/watch?v=FAuBIfE6VYU) |
+| WhatsApp Web — голосові повідомлення | [▶ Дивитись](https://youtube.com/watch?v=5UHmNtDlvyY) |
+| Telegram Web — голосовий диктант | [▶ Дивитись](https://youtube.com/watch?v=n9u-BR0z4RU) |
+| LinkedIn — писати пости голосом | [▶ Дивитись](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| Meeting Mode — субтитри в реальному часі | [▶ Дивитись](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## Ліцензія
 

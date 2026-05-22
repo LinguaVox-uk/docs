@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="README.md">English</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.es.md">Español</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ja.md">日本語</a>
+  <a href="README.md">English</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.es.md">Español</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ja.md">日本語</a> · <a href="README.fr.md">Français</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a> · <a href="README.pt.md">Português</a> · <a href="README.it.md">Italiano</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.sv.md">Svenska</a> · <a href="README.ro.md">Română</a> · <a href="README.el.md">Ελληνικά</a> · <a href="README.tl.md">Filipino</a> · <a href="README.ur.md">اردو</a> · <a href="README.pa.md">ਪੰਜਾਬੀ</a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   <a href="https://linguavox.uk"><img src="https://img.shields.io/badge/ウェブサイト-linguavox-brightgreen" alt="ウェブサイト" /></a>
   <a href="https://chromewebstore.google.com/detail/linguavox/dpdejiobdhljljfnkmipjblbpcfhbdea"><img src="https://img.shields.io/badge/Chrome%20ウェブストア-無料インストール-blue?logo=googlechrome" alt="Chrome ウェブストア" /></a>
   <a href="https://linguavox.uk/login"><img src="https://img.shields.io/badge/ダッシュボード-開く-orange" alt="ダッシュボード" /></a>
-  <a href="https://github.com/LinguaVox-uk/docs/releases/latest"><img src="https://img.shields.io/badge/バージョン-3.0.0-green" alt="バージョン" /></a>
+  <img src="https://img.shields.io/badge/バージョン-2.8-green" alt="バージョン" />
 </p>
 
 ---
@@ -109,6 +109,24 @@ LinguaVoxは、AI搭載の音声入力・翻訳Chrome拡張機能です。Ctrl+S
 | 👤 著者について | https://linguavox.uk/about |
 | 🔒 プライバシーポリシー | https://linguavox.uk/privacy/ |
 | 💬 サポート | https://linguavox.uk/support/ |
+
+## コミュニティ＆サポート
+
+| | |
+|--|--|
+| 📺 YouTube | [デモ動画とチュートリアル](https://www.youtube.com/channel/UCHRcSLs96N5M_mC4I4XXTMg) |
+| 💬 WhatsApp | [LinguaVox コミュニティチャンネル](https://whatsapp.com/channel/0029VbCx0blElaglJ5zvFl3d) |
+| 🤝 Slack | [linguavox.slack.com に参加](https://linguavox.slack.com) |
+
+## デモ動画
+
+| ユースケース | 視聴 |
+|------------|------|
+| Gmail — 音声でメールを作成 | [▶ 視聴](https://youtube.com/watch?v=FAuBIfE6VYU) |
+| WhatsApp Web — 音声メッセージ | [▶ 視聴](https://youtube.com/watch?v=5UHmNtDlvyY) |
+| Telegram Web — 音声ディクテーション | [▶ 視聴](https://youtube.com/watch?v=n9u-BR0z4RU) |
+| LinkedIn — 音声で投稿を書く | [▶ 視聴](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| ミーティングモード — リアルタイム字幕 | [▶ 視聴](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## ライセンス
 

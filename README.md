@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="README.md">English</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.es.md">Español</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ja.md">日本語</a>
+  <a href="README.md">English</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.es.md">Español</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ja.md">日本語</a> · <a href="README.fr.md">Français</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a> · <a href="README.pt.md">Português</a> · <a href="README.it.md">Italiano</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.sv.md">Svenska</a> · <a href="README.ro.md">Română</a> · <a href="README.el.md">Ελληνικά</a> · <a href="README.tl.md">Filipino</a> · <a href="README.ur.md">اردو</a> · <a href="README.pa.md">ਪੰਜਾਬੀ</a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
   <a href="https://chromewebstore.google.com/detail/linguavox/dpdejiobdhljljfnkmipjblbpcfhbdea"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Install%20Free-blue?logo=googlechrome" alt="Chrome Web Store" /></a>
   <a href="https://linguavox.uk/login"><img src="https://img.shields.io/badge/dashboard-open-orange" alt="Dashboard" /></a>
   <a href="https://linguavox.uk/llms.txt"><img src="https://img.shields.io/badge/llms.txt-AI%20docs-purple" alt="llms.txt" /></a>
-  <a href="https://github.com/LinguaVox-uk/docs/releases/latest"><img src="https://img.shields.io/badge/version-3.0.0-green" alt="Version" /></a>
+  <a href="https://github.com/kos-4862/linguavox-public/releases/latest"><img src="https://img.shields.io/badge/version-3.0.0-green" alt="Version" /></a>
 </p>
 
 ---
@@ -138,7 +138,7 @@ No. Audio is processed in real-time by Whisper and discarded immediately. Zero v
 3. Press Ctrl+Space anywhere and start speaking
 
 **Option B — Manual install (ZIP):**
-1. Download `linguavox-3.0.0.zip` from [Releases →](https://github.com/LinguaVox-uk/docs/releases/latest)
+1. Download `linguavox-3.0.0.zip` from [Releases →](https://github.com/kos-4862/linguavox-public/releases/latest)
 2. Unzip to a folder
 3. Chrome → `chrome://extensions` → enable "Developer mode" → "Load unpacked" → select the folder
 
@@ -157,6 +157,24 @@ No. Audio is processed in real-time by Whisper and discarded immediately. Zero v
 | 🔒 Privacy Policy | https://linguavox.uk/privacy/ |
 | 🤖 AI docs (llms.txt) | https://linguavox.uk/llms.txt |
 | 💬 Support | https://linguavox.uk/support/ |
+
+## Community & Support
+
+| | |
+|--|--|
+| 📺 YouTube | [Demo videos & tutorials](https://www.youtube.com/channel/UCHRcSLs96N5M_mC4I4XXTMg) |
+| 💬 WhatsApp | [LinguaVox Community Channel](https://whatsapp.com/channel/0029VbCx0blElaglJ5zvFl3d) |
+| 🤝 Slack | [Join linguavox.slack.com](https://linguavox.slack.com) |
+
+## Demo Videos
+
+| Use Case | Watch |
+|----------|-------|
+| Gmail — compose emails by voice | [▶ Watch](https://youtube.com/watch?v=FAuBIfE6VYU) |
+| WhatsApp Web — send voice messages | [▶ Watch](https://youtube.com/watch?v=5UHmNtDlvyY) |
+| Telegram Web — voice dictation | [▶ Watch](https://youtube.com/watch?v=n9u-BR0z4RU) |
+| LinkedIn — write posts by voice | [▶ Watch](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| Meeting Mode — real-time subtitles | [▶ Watch](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## License
 
